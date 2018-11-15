@@ -1,5 +1,5 @@
 <?php
-namespace Extyl\Helpers;
+namespace App;
 
 class HighloadManager implements DataManagerInterface
 {
